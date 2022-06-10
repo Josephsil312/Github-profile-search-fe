@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;800&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:wght@100;300;400;800&family=Poppins&family=Roboto:wght@100;300;400;500&display=swap');
+body{
+    background-color: black;
+}
+.containerr {
+    width: 590px;
+    height:390px;
+    background-color: rgb(16, 16, 96);
+    left: 525px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 0px rgba(91, 88, 88, 0.75);
+    -webkit-box-shadow: 0px 0px 4px 0px rgba(91, 88, 88, 0.75);
+    -moz-box-shadow: 0px 0px 4px 0px rgba(91, 88, 88, 0.75);
+    position: absolute;
+    padding: 20px;
+}
+
+.logo {
+    width: px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0px 0px 10px 0px;
+    position: relative;
+    padding: 5px;
+}
+
+.titles {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.title {
+    color: white;
+    margin-left: 80px;
+    top: -90px;
+    position: relative;
+    font-size: 1.5em;
+    padding: 5px;
+}
+
+.joined {
+    color: white;
+    position: relative;
+    top: -85px;
+    left: 0px;
+    padding: 5px;
+    font-size: large;
+}
+
+.username {
+    color: rgb(226, 14, 226);
+    font-size: small;
+    position: relative;
+    margin-left: 85px;
+    bottom: 95px;
+    padding: 5px;
+}
+
+.bio {
+    color: white;
+    font-size: large;
+    position: relative;
+    margin-left: 85px;
+    bottom: 105px;
+    padding: 5px;
+}
+
+.items1 {
+    width: 450px;
+    height: 75px;
+    background-color: rgb(130, 130, 174);
+    margin-left: 90px;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+    top: -80px;
+    box-shadow: 0px 0px 4px 0px rgba(91, 88, 88, 0.75);
+    -webkit-box-shadow: 0px 0px 4px 0px rgba(91, 88, 88, 0.75);
+    -moz-box-shadow: 0px 0px 4px 0px rgba(91, 88, 88, 0.75);
+}
+
+.item1 {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+
+}
+
+.item2 {
+    position: relative;
+    top: -150px;
+    color: white;
+}
+
+.item21 {
+    position: relative;
+    left: 155px;
+    color: white;
+    padding: 5px;
+}
+
+.item22 {
+    position: relative;
+    left: 300px;
+    color: white;
+    top: -50px;
+    padding: 5px;
+}
+
+.item23 {
+    position: relative;
+    left: 465px;
+    color: white;
+    top: -95px;
+}
+
+.item31 {
+    position: relative;
+    color: white;
+    top: -216px;
+    margin-left: 360px;
+    font-size: large;
+    font-weight: 100;
+}
+
+.item32 {
+    position: relative;
+    color: white;
+    top: -270px;
+    left: 90px;
+    font-size: large;
+    font-weight: 100;
+}
